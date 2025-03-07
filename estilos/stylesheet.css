@@ -1,20 +1,20 @@
         /* Diseño global */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
+body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+        color: #333;
+}
 
-        h1, h2, h3 {
-            color: #4CAF50;
-            text-align: center;
-            font-family: 'Arial', sans-serif;
-        }
+ h1, h2, h3 {
+        color: #4CAF50;
+        text-align: center;
+        font-family: 'Arial', sans-serif;
+}
 
-        h3 {
-            font-size: 1.2em;
+h3 {
+        font-size: 1.2em;
         }
 
         /* Estilo para los enlaces */
